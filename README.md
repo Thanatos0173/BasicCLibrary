@@ -31,3 +31,7 @@ A library that contains useful functions/data types. Made by (and mainly for) Th
 - [ ] Kosaraju
 - [ ] Kruskal
 - [ ] A*
+
+## Documentation
+
+https://codedocs.xyz/Thanatos0173/BasicCLibrary/
