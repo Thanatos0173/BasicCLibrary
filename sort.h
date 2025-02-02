@@ -6,7 +6,7 @@
 /**
  * @brief
  * Recursive implementation of a quicksort. The array is sorted in place.
- * @param list An array to sort.
+ * @param array An array to sort.
  * @param *isGreater The pointer to a function that, given two elements, return true if the first element is strictly greater than the second.
  * @param elem_size The size of an element in the array.
  * @param size The sizew of the array.
